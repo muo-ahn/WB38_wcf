@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:9000/GetService?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/ConsoleApp_1115_%EC%A1%B0%EB%B3%84%EC%8B%A4%EC%8A%B5_%EC%96%BC%EA%B5%B4_%EC%B6%94%EC%B6%9C_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_" />
+  <xs:element name="Image_Send">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="strFileName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="bytePicture" nillable="true" type="xs:base64Binary" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Image_Delete">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="strFileName" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Init_Send_Image_Data">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Init_Send_Image_DataResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/ConsoleApp_1115_%EC%A1%B0%EB%B3%84%EC%8B%A4%EC%8A%B5_%EC%96%BC%EA%B5%B4_%EC%B6%94%EC%B6%9C_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_" minOccurs="0" name="Init_Send_Image_DataResult" nillable="true" type="q1:ArrayOfImage_Data" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Image_Send_Result_Single">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/ConsoleApp_1115_%EC%A1%B0%EB%B3%84%EC%8B%A4%EC%8A%B5_%EC%96%BC%EA%B5%B4_%EC%B6%94%EC%B6%9C_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_" minOccurs="0" name="ImageData" nillable="true" type="q2:Image_Data" />
+        <xs:element minOccurs="0" name="msg" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Image_Send_Result">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/ConsoleApp_1115_%EC%A1%B0%EB%B3%84%EC%8B%A4%EC%8A%B5_%EC%96%BC%EA%B5%B4_%EC%B6%94%EC%B6%9C_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_" minOccurs="0" name="Image_List" nillable="true" type="q3:ArrayOfImage_Data" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Image_Delete_Result">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/ConsoleApp_1115_%EC%A1%B0%EB%B3%84%EC%8B%A4%EC%8A%B5_%EC%96%BC%EA%B5%B4_%EC%B6%94%EC%B6%9C_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_" minOccurs="0" name="Image_List" nillable="true" type="q4:ArrayOfImage_Data" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

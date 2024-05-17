@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ConsoleApp_1115_%EC%A1%B0%EB%B3%84%EC%8B%A4%EC%8A%B5_%EC%96%BC%EA%B5%B4_%EC%B6%94%EC%B6%9C_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ConsoleApp_1115_%EC%A1%B0%EB%B3%84%EC%8B%A4%EC%8A%B5_%EC%96%BC%EA%B5%B4_%EC%B6%94%EC%B6%9C_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfImage_Data">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Image_Data" nillable="true" type="tns:Image_Data" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfImage_Data" nillable="true" type="tns:ArrayOfImage_Data" />
+  <xs:complexType name="Image_Data">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Analyzed_image" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="Image_Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="imageLists" nillable="true" type="tns:ArrayOfImage_Each_Person" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Image_Data" nillable="true" type="tns:Image_Data" />
+  <xs:complexType name="ArrayOfImage_Each_Person">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Image_Each_Person" nillable="true" type="tns:Image_Each_Person" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfImage_Each_Person" nillable="true" type="tns:ArrayOfImage_Each_Person" />
+  <xs:complexType name="Image_Each_Person">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Each_Single_Image" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="Expectancy_age" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Gender" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Image_Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Image_Each_Person" nillable="true" type="tns:Image_Each_Person" />
+</xs:schema>

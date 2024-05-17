@@ -1,0 +1,131 @@
+C:\Users\user\source\repos\1115_Client\1115_Client\bin\Debug\1115_Client.exe.config
+C:\Users\user\source\repos\1115_Client\1115_Client\bin\Debug\1115_Client.exe
+C:\Users\user\source\repos\1115_Client\1115_Client\bin\Debug\1115_Client.pdb
+C:\Users\user\source\repos\1115_Client\1115_Client\obj\Debug\1115_Client.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\1115_Client\1115_Client\obj\Debug\1115_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\1115_Client\1115_Client\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\1115_Client\1115_Client\obj\Debug\App.g.cs
+C:\Users\user\source\repos\1115_Client\1115_Client\obj\Debug\1115_Client_MarkupCompile.cache
+C:\Users\user\source\repos\1115_Client\1115_Client\obj\Debug\1115_Client_MarkupCompile.lref
+C:\Users\user\source\repos\1115_Client\1115_Client\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\1115_Client\1115_Client\obj\Debug\1115_Client.g.resources
+C:\Users\user\source\repos\1115_Client\1115_Client\obj\Debug\_1115_Client.Properties.Resources.resources
+C:\Users\user\source\repos\1115_Client\1115_Client\obj\Debug\1115_Client.csproj.GenerateResource.cache
+C:\Users\user\source\repos\1115_Client\1115_Client\obj\Debug\1115_Client.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1115_Client\1115_Client\obj\Debug\1115_Client.exe
+C:\Users\user\source\repos\1115_Client\1115_Client\obj\Debug\1115_Client.pdb
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\bin\Debug\1115_Client.exe.config
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\bin\Debug\1115_Client.exe
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\bin\Debug\1115_Client.pdb
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\obj\Debug\1115_Client.csproj.AssemblyReference.cache
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\obj\Debug\MainWindow.g.cs
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\obj\Debug\App.g.cs
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\obj\Debug\1115_Client_MarkupCompile.cache
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\obj\Debug\1115_Client_MarkupCompile.lref
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\obj\Debug\MainWindow.baml
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\obj\Debug\1115_Client.g.resources
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\obj\Debug\_1115_Client.Properties.Resources.resources
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\obj\Debug\1115_Client.csproj.GenerateResource.cache
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\obj\Debug\1115_Client.csproj.CoreCompileInputs.cache
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\obj\Debug\1115_Client.exe
+C:\Users\dkseh\OneDrive\문서\카카오톡 받은 파일\1115_Client\1115_Client\obj\Debug\1115_Client.pdb
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\1115_Client.exe.config
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\1115_Client.exe
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\1115_Client.pdb
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\1115_Client.csproj.AssemblyReference.cache
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\MainWindow.g.cs
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\App.g.cs
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\1115_Client_MarkupCompile.cache
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\1115_Client_MarkupCompile.lref
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\MainWindow.baml
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\1115_Client.g.resources
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\_1115_Client.Properties.Resources.resources
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\1115_Client.csproj.GenerateResource.cache
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\1115_Client.csproj.CoreCompileInputs.cache
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\1115_Client.exe
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\1115_Client.pdb
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\OpenCvSharp.dll
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\System.Buffers.dll
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\System.Drawing.Common.dll
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\System.Memory.dll
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\OpenCvSharp.xml
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\System.Buffers.xml
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\System.Drawing.Common.xml
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\System.Memory.xml
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\1115_Client_Content.g.cs
+C:\Users\dkseh\OneDrive\바탕 화면\1115_Client\1115_Client\1115_Client\obj\Debug\1115_Client.csproj.CopyComplete
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\1115_Client.exe.config
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\1115_Client.exe
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\1115_Client.pdb
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\OpenCvSharp.dll
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Drawing.Common.dll
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\OpenCvSharp.xml
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Drawing.Common.xml
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\App.g.cs
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client_Content.g.cs
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client_MarkupCompile.cache
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client_MarkupCompile.lref
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.g.resources
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\_1115_Client.Properties.Resources.resources
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.csproj.CopyComplete
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.exe
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.pdb
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\Cam_Window.g.cs
+C:\Users\user\Desktop\(.NET)WCF\wpf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\Cam_Window.baml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\1115_Client.exe.config
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\1115_Client.exe
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\1115_Client.pdb
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\OpenCvSharp.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Drawing.Common.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\OpenCvSharp.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Drawing.Common.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\Cam_Window.g.cs
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\App.g.cs
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client_Content.g.cs
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client_MarkupCompile.cache
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client_MarkupCompile.lref
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\Cam_Window.baml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.g.resources
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\_1115_Client.Properties.Resources.resources
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.csproj.CopyComplete
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.exe
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_조별실습(얼굴 추출 프로그램 클라이언트)\1115_Client\obj\Debug\1115_Client.pdb
